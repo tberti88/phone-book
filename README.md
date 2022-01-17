@@ -1,4 +1,4 @@
-<h1>Site 'phone-book'</h1> 
+<h1>'Phone-book'</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/pypi/pyversions/Django"/>
@@ -33,12 +33,10 @@ Projeto de um phonebook desenvolvido em Django.
 
 ## Fotos
 
-![127 0 0 1_8000_ (3)](https://user-images.githubusercontent.com/81266049/149772347-a5bad8d9-8dff-432d-8ea4-c220cc0a9de5.png)
-![127 0 0 1_8000_ (4)](https://user-images.githubusercontent.com/81266049/149772358-2b040dcc-2501-495c-bbe4-31c66344845d.png)
-![127 0 0 1_8000_imovel_2](https://user-images.githubusercontent.com/81266049/149772366-e0f1fa49-5a8d-4908-a898-3c24c3ca10e6.png)
-![127 0 0 1_8000_imovel_2 (1)](https://user-images.githubusercontent.com/81266049/149772370-c2509900-c604-4482-b4f8-8c9d95001afd.png)
-![127 0 0 1_8000_agendamentos](https://user-images.githubusercontent.com/81266049/149772376-5d1aa3f0-8a08-450b-a016-c0d0973a4fb9.png)
-![127 0 0 1_8000__preco_minimo= preco_maximo= cidade=1 tipo=A](https://user-images.githubusercontent.com/81266049/149772379-25f8a9d2-723a-4fa0-8600-839cda8665b2.png)
+![127 0 0 1_8001_7](https://user-images.githubusercontent.com/81266049/149791800-0f80823b-44d6-4685-880d-3480409c6ff6.png)
+![127 0 0 1_8001_](https://user-images.githubusercontent.com/81266049/149791803-a31ed307-912c-4e8c-961a-601bcce12c9b.png)
+![127 0 0 1_8001_6](https://user-images.githubusercontent.com/81266049/149791804-d339da75-c133-4471-bfce-2bf8d01c386f.png)
+
 
 
 ## Casos de Uso
